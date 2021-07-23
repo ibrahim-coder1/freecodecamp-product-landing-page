@@ -109,7 +109,7 @@ body {
 
 /* Fearutes option Start  */
 
-.features {
+#features {
     max-width: 700px;
     padding-top: 80px;
     margin: auto;
@@ -159,7 +159,7 @@ body {
 
 /* Pricing section start  */
 
-.pricing {
+#pricing {
     max-width: 700px;
     margin: auto;
     padding: 80px 25px 10px 25px;
@@ -281,7 +281,7 @@ footer {
     }
 
 
-    .pricing {
+    #pricing {
         display: grid;
         grid-template-columns: 1fr;
     }
